@@ -1,0 +1,16 @@
+max_size:
+compare:
+copy:
+c_str:
+data:
+empty:
+erase:
+find:
+find_last_of:
+front:
+insert:
+replace:
+reserve:
+resize:
+substr:
+swap:
