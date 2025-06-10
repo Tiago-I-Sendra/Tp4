@@ -1,3 +1,5 @@
-funciones:son todo aquello en la programacion que hacen cálculos y mueestran el resultado.
+funciones:son todo aquello en la programacion que hacen cálculos y gracias a la información dada.
 a diferencia
 del procedimiento que:tiene el objetivo de guardar los datos/valores en una base de datos en vez de mostrarlo.
+siendo mas adecuado dependiendo de la ocasión,ya que si se busca algo ordenado es mejor un Procedimiento
+mientras que si solo se busca un cálculo rapido y basico es mejor una funcion.
