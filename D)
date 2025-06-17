@@ -1,7 +1,7 @@
-max_size:
-compare:
-copy:
-c_str:
+max_size:Devuelve el número máximo de elementos que el vector puede contener.
+compare:Compara el valor del objeto de cadena con la secuencia de caracteres especificada.
+copy:Copia los elementos de principio a fin.
+c_str:Devuelve un puntero a una matriz que contiene una secuencia de caracteres terminada en nulo .
 data:
 empty:
 erase:
