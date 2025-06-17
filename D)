@@ -8,9 +8,9 @@ erase:Elimina del vector un solo elemento.
 find:Devuelve un iterador del primer elemento del rango. Si no se encuentra dicho elemento, la función devuelve last.
 find_last_of:Busca en la cadena,el último elemento que coincida con los caracteres especificados en sus argumentos.
 front:Devuelve una referencia del primer elemento del vector.
-insert:
-replace:
-reserve:
-resize:
-substr:
-swap:
+insert:se inserta un nuevo elemento en el vector, lo que aumenta el tamaño del contenedor según el número de elementos insertados.
+replace:Reemplaza la parte especificada del vector.
+reserve:aumenta el tamaño del vector,segun los numeros específicados.
+resize:altera el espacio de un vector.
+substr:Devuelve un objeto recién construido por String con su valor inicial como una copia de subcadena de este objeto.
+swap:toma dos argumentos del mismo tipo e intercambia sus valores en un vector.
