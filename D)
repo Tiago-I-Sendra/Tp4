@@ -1,13 +1,13 @@
 max_size:Devuelve el número máximo de elementos que el vector puede contener.
 compare:Compara el valor del objeto de cadena con la secuencia de caracteres especificada.
 copy:Copia los elementos de principio a fin.
-c_str:Devuelve un puntero a una matriz que contiene una secuencia de caracteres terminada en nulo .
-data:
-empty:
-erase:
-find:
-find_last_of:
-front:
+c_str:Devuelve un puntero a una matriz que contiene una secuencia de caracteres terminada en nulo.
+data:Devuelve un puntero al bloque de memoria que contiene los elementos.
+empty:Devuelve la cadena si está vacía.
+erase:Elimina del vector un solo elemento.
+find:Devuelve un iterador del primer elemento del rango. Si no se encuentra dicho elemento, la función devuelve last.
+find_last_of:Busca en la cadena,el último elemento que coincida con los caracteres especificados en sus argumentos.
+front:Devuelve una referencia del primer elemento del vector.
 insert:
 replace:
 reserve:
