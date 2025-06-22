@@ -1,0 +1,15 @@
+size():
+capacity():
+empty():
+push_back(valor):
+pop_back():
+front():
+back():
+at(posición):
+assign(inicio, fin):
+erase(posición):
+erase(inicio, fin):
+insert(posición, valor):
+insert(posición, inicio, fin):
+clear():
+swap(otro_vector):
