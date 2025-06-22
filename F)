@@ -1,0 +1,2 @@
+se modifica el tamaño de un vector:usando resize()
+el cual aumenta o disminuye las variables almacenadas,borrandolas o creando variables 0.
