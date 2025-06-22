@@ -1,3 +1,3 @@
-un vector es:
-se caracteriza por:
-y se declara:
+un vector es:es un contenedor el cual puede almacenar una cifra de varisbles establecida anteriormente. 
+se caracteriza por:siendo alguna de sus características que ayuda a ordenar y tener todo de una forma comoda.
+y se declara:int A[B]
