@@ -1,15 +1,15 @@
-size():
-capacity():
-empty():
-push_back(valor):
-pop_back():
-front():
-back():
-at(posición):
-assign(inicio, fin):
-erase(posición):
-erase(inicio, fin):
-insert(posición, valor):
-insert(posición, inicio, fin):
-clear():
-swap(otro_vector):
+size(): podría usarse para que el usuario sepa el tamaño del vector.
+capacity(): podria usarse para que el usuario sepa el tamaño del vector actual.
+empty(): podría usarce para que el usuario identifique si el espacio que solicita esta vacio o con un numero.
+push_back(valor): serviria para que el usuario pueda reemplazar o ordenar un vector.
+pop_back(): serviría para que el usuario dejara espacio o simplemente eliminara un digito final del vector.
+front(): serviria para que el usuario pueda informarce del primer digito del vector.
+back(): serviría para que el usuario pueda informarce del ultimo digito del vector.
+at(posición): serviría para que el usuario pueda saber la informacion de un vector.
+assign(inicio, fin): podria usarce para que el usuario convierta al vector en diferentes digitos a los ya establecidos.
+erase(posición): podría usarce para que el usuario pueda alterar borrando partes de un vector.
+erase(inicio, fin): podria usarce para que el usuario borre una cantidad determinada de elementos de un vector.
+insert(posición, valor): podria usarce para que el usuario establesca sus propios digitos en el vector.
+insert(posición, inicio, fin): podria usarce para añadir elementos en una cantidad determinada de rango en el vector.
+clear(): serviría para que el usuario eradica el contenido del vector.
+swap(otro_vector): serviría para que el usuario pueda alterar el vector de forma mas rapida por otro vector.
